@@ -1,0 +1,10 @@
+name: Do2Day-Package
+
+on:
+  release:
+    types: [created]
+
+jobs:
+  build:
+
+
